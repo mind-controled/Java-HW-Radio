@@ -33,7 +33,6 @@ public class Radio {
         }
 
         currentStation += 1;
-        ;
 
     }
 
@@ -45,7 +44,6 @@ public class Radio {
         }
 
         currentStation -= 1;
-        ;
 
     }
 
